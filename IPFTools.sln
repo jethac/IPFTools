@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iph2bmp", "src\iph2bmp\iph2bmp.csproj", "{5C95151D-8D17-43CC-B275-709FD0C1CC74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ipfwrapper", "src\ipfwrapper\ipfwrapper.csproj", "{EE13090D-FCC5-4B76-80C0-93C502B1D6BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C95151D-8D17-43CC-B275-709FD0C1CC74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C95151D-8D17-43CC-B275-709FD0C1CC74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C95151D-8D17-43CC-B275-709FD0C1CC74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C95151D-8D17-43CC-B275-709FD0C1CC74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE13090D-FCC5-4B76-80C0-93C502B1D6BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE13090D-FCC5-4B76-80C0-93C502B1D6BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE13090D-FCC5-4B76-80C0-93C502B1D6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE13090D-FCC5-4B76-80C0-93C502B1D6BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
